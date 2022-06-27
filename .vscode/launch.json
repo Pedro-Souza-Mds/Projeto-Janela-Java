@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaConsultaFornecedores",
+            "request": "launch",
+            "mainClass": "Visão.JanelaConsultaFornecedores",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaConsultaProdutos",
+            "request": "launch",
+            "mainClass": "Visão.JanelaConsultaProdutos",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaFornecedor",
+            "request": "launch",
+            "mainClass": "Visão.JanelaFornecedor",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaLogin",
+            "request": "launch",
+            "mainClass": "Visão.JanelaLogin",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaMenu",
+            "request": "launch",
+            "mainClass": "Visão.JanelaMenu",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaPrincipal",
+            "request": "launch",
+            "mainClass": "Visão.JanelaPrincipal",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaProdutos",
+            "request": "launch",
+            "mainClass": "Visão.JanelaProdutos",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaProdutosPorFornecedor",
+            "request": "launch",
+            "mainClass": "Visão.JanelaProdutosPorFornecedor",
+            "projectName": "Projeto Janela_80fe1e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JanelaSobre",
+            "request": "launch",
+            "mainClass": "Visão.JanelaSobre",
+            "projectName": "Projeto Janela_80fe1e81"
+        }
+    ]
+}
