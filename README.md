@@ -17,11 +17,9 @@
 - Tabela *Usuarios*
 - *Relações*
 <div align="center">
-<img src="https://user-images.githubusercontent.com/108109540/176349356-17b888e7-0061-4c46-8b53-9d4a4ef12fb4.png" width="500px" />&nbsp; 
+<img src="https://user-images.githubusercontent.com/108109540/176349356-17b888e7-0061-4c46-8b53-9d4a4ef12fb4.png" width="500px" />
 <img src="https://user-images.githubusercontent.com/108109540/176349366-81232378-4130-4281-ac26-cb1301c2bc24.png" width="550px" />
-</div> &nbsp;
-<div align="center">
-<img src="https://user-images.githubusercontent.com/108109540/176349370-434c1f28-c514-470c-925a-25f5b685a5e8.png" width="500px" /> &nbsp; 
+<img src="https://user-images.githubusercontent.com/108109540/176349370-434c1f28-c514-470c-925a-25f5b685a5e8.png" width="500px" /> 
 <img src="https://user-images.githubusercontent.com/108109540/176349367-8ac9df8b-c7df-4f03-bc64-e3bec71a5549.png" width="550px" />
 </div>&nbsp;
 
