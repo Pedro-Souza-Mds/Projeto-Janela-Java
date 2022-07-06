@@ -15,7 +15,7 @@
 - Tabela *Fornecedores*
 - Tabela *Produtos*
 - Tabela *Usuarios*
-- *Relações*
+- *Relações* 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/108109540/176349356-17b888e7-0061-4c46-8b53-9d4a4ef12fb4.png" width="500px" />
 <img src="https://user-images.githubusercontent.com/108109540/176349366-81232378-4130-4281-ac26-cb1301c2bc24.png" width="550px" />
